@@ -31,8 +31,7 @@
 4. Apply calibration to all conditions
 5. Mesure performance
 
-Theme 02: The new way can be applied to the pr
-Theme 01: Old vs new
+# Figures
 
 ## Figure 01
 - Principles of ML. Simlar to Joey's figure
